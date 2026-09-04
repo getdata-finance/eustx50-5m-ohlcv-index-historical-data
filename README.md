@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `5m` sample updated in sync
 
-> **Sample on GitHub** · `EUSTX50_5m.csv` (11,089 rows, `2026-06-01` -> `2026-09-01`, 1.09 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/eustx50)** — **589,412** `5m` rows (full `1m`: 2,836,357), **11 timeframes**, `2012-08-27` -> `2026-09-01`.
+> **Sample on GitHub** · `EUSTX50_5m.csv` (11,088 rows, `2026-06-02` -> `2026-09-01`, 1.09 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/eustx50)** — **589,412** `5m` rows (full `1m`: 2,770,438), **11 timeframes**, `2012-08-27` -> `2026-09-01`.
 
 ## Download sample
 
@@ -45,9 +45,9 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | EURO STOXX 50 · Index | EURO STOXX 50 · Index |
 | Timeframes | `5m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 5m rows | 11,089 | **589,412** |
+| 5m rows | 11,088 | **589,412** |
 | Size | 1.09 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/eustx50) |
-| Period | `2026-06-01` -> `2026-09-01` | `2012-08-27` -> `2026-09-01` |
+| Period | `2026-06-02` -> `2026-09-01` | `2012-08-27` -> `2026-09-01` |
 | File | `EUSTX50_5m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/eustx50) |
 | Coverage report | — | [EUSTX50 coverage](https://getdata.finance/coverage/eustx50) |
 | Updates | Weekly (Saturday, 8am UTC+0) — GitHub sample | Weekly (Saturday, 8am UTC+0) — all timeframes |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`EUSTX50_5m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-06-01T19:55:00+00:00 | 6123.52 | 6123.52 | 6119.5 | 6121.06 | 111 |
 | 2026-06-02T06:00:00+00:00 | 6121.06 | 6132.88 | 6118.06 | 6131.88 | 97.46697 |
 | 2026-06-02T06:05:00+00:00 | 6131.88 | 6135.39 | 6131.88 | 6134.37 | 57 |
 | 2026-06-02T06:10:00+00:00 | 6134.37 | 6134.37 | 6130.87 | 6132.88 | 73 |
 | 2026-06-02T06:15:00+00:00 | 6132.88 | 6135.89 | 6132.88 | 6134.88 | 54 |
+| 2026-06-02T06:20:00+00:00 | 6134.88 | 6137.89 | 6133.87 | 6137.39 | 29 |
 
 **Last rows**
 
